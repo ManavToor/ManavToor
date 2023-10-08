@@ -5,6 +5,7 @@
 <b>Arduino</b>
 
   <b>[Traffic Junction Simulator](https://github.com/ManavToor/TrafficJunction)</b><br />
+  <b>[Name In Lights](https://github.com/ManavToor/NameInLights)</b><br />
 
 
 <!--
