@@ -6,7 +6,7 @@
   
   <b>[Traffic Junction Simulator](https://github.com/ManavToor/TrafficJunction)</b><br />
   <b>[Name In Lights](https://github.com/ManavToor/NameInLights)</b><br />
-  <b>[Name In Lights](https://github.com/ManavToor/EEZYbotARM)</b><br />
+  <b>[Simple Robot Arm](https://github.com/ManavToor/EEZYbotARM)</b><br />
 
 
 <!--
