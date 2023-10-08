@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects I've worked on:</h2>
 
-<h3>Arduino</h3>
+<b>Arduino</b>
 
   <b>[Traffic Junction Simulator](https://github.com/ManavToor/TrafficJunction)</b><br />
 
