@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 Projects I've worked on:</h2>
 
-- <b>Example project name</b>
-  - [Praciting DS & Algos in Python](https://github.com/)
+<h3>Arduino</h3>
+
+  <b>[Traffic Junction Simulator](https://github.com/ManavToor/TrafficJunction)</b><br />
 
 
 <!--
