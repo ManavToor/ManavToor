@@ -1,4 +1,4 @@
-<h1>Hellow, I'm Manav! <br/></h1>
+<h1>Hello, I'm Manav! <br/></h1>
 
 <h2>👨‍💻 Projects I've worked on:</h2>
 
