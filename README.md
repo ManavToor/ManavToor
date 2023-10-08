@@ -12,6 +12,7 @@
 
   <b>[Microsoft Teams Web Scraper](https://github.com/ManavToor/ShiftstoIcal)</b><br />
   <b>[Password Manager](https://github.com/ManavToor/PasswordManager)</b><br />
+  <b>[Discord Bot](https://github.com/ManavToor/ShulkerBot)</b><br />
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
