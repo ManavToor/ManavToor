@@ -3,9 +3,10 @@
 <h2>👨‍💻 Projects I've worked on:</h2>
 
 <b>Arduino</b>
-
+  
   <b>[Traffic Junction Simulator](https://github.com/ManavToor/TrafficJunction)</b><br />
   <b>[Name In Lights](https://github.com/ManavToor/NameInLights)</b><br />
+  <b>[Name In Lights](https://github.com/ManavToor/EEZYbotARM)</b><br />
 
 
 <!--
