@@ -14,7 +14,7 @@
   <b>[Password Manager](https://github.com/ManavToor/PasswordManager)</b><br />
   <b>[Discord Bot 1](https://github.com/ManavToor/ShulkerBot)</b><br />
   <b>[Discord Bot 2](https://github.com/ManavToor/CoffeenCodeBot)</b><br />
-  <b>[Maze Solver](https://github.com/ManavToor/MazeSolver)</b><br /> 
+  <b>[Maze Solvers](https://github.com/ManavToor/MazeSolvers)</b><br /> 
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
