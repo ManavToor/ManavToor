@@ -11,6 +11,7 @@
 <h3>Python</h3>
 
   <b>[Searching Algorithms using Maze Solvers](https://github.com/ManavToor/MazeSolvers)</b><br /> 
+  <b>[Advesarial Minimax Algortithm with Tic-Tac-Toe](https://github.com/ManavToor/Minimax)</b><br /> 
   <b>[Microsoft Teams Web Scraper](https://github.com/ManavToor/ShiftstoIcal)</b><br />
   <b>[Password Manager](https://github.com/ManavToor/PasswordManager)</b><br />
   <b>[Discord Bot 1](https://github.com/ManavToor/ShulkerBot)</b><br />
