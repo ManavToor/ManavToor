@@ -8,8 +8,14 @@
   <b>[Maze Solver Using Various Searching Algorithms](https://github.com/ManavToor/MazeSolvers)</b><br />
   &nbsp;&nbsp;BFS, DFS, Greedy-BFS, A*<br />
   <br /><b>[Unbeatable Tic-Tac-Toe bot with Advesarial Minimax Algortithm](https://github.com/ManavToor/Minimax)</b><br /> 
+  &nbsp;&nbsp;<br />
   <br /><b>[Automating Ansys Fluent CFD Simulations for Rocket Airbrake Testing](https://github.com/waterloo-rocketry/PyAnsys)</b><br />
   &nbsp;&nbsp;I used my friend Richards account to make commits but the project is 99.99% my own work<br />
+  
+  <br />Other repositories I've commited to:<br />
+  <b>[waterloo-rocketry/omnibus (Active PR)](https://github.com/waterloo-rocketry/omnibus/tree/aaumais/185-data-post-processing-script-rewrite)</b><br />
+  <b>[waterloo-rocketry/parsley (Active PR)](https://github.com/waterloo-rocketry/parsley/tree/gen_canlib_cleanup)</b><br />
+
   <br />Older not so cool projects:<br />
   <b>[Microsoft Teams Web Scraper](https://github.com/ManavToor/ShiftstoIcal)</b><br />
   <b>[Password Manager](https://github.com/ManavToor/PasswordManager)</b><br />
@@ -19,7 +25,7 @@
 <h3>PCB Boards</h3>
 
   <b>[Power Distribution Board (Active PR)](https://github.com/waterloo-rocketry/GSPD/tree/new-converter)</b><br />
-  &nbsp;&nbsp; Added new 24V boost converter to schematic and total respin of board layout<br />
+  &nbsp;&nbsp; Added new 24V boost converter to old board and completely redid layout<br />
   <br /><b>[DAQ and CAN-bus support board (Active PR)](https://github.com/waterloo-rocketry/canhw/tree/usb_relay)</b><br />
   &nbsp;&nbsp; Created board layout<br />
   
