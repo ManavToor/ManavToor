@@ -18,9 +18,13 @@
 
   <br />Older not so cool projects:<br />
   <b>[Microsoft Teams Web Scraper](https://github.com/ManavToor/ShiftstoIcal)</b><br />
-  <b>[Password Manager](https://github.com/ManavToor/PasswordManager)</b><br />
-  <b>[Discord Bot 1](https://github.com/ManavToor/ShulkerBot)</b><br />
-  <b>[Discord Bot 2](https://github.com/ManavToor/CoffeenCodeBot)</b><br />
+  &nbsp;&nbsp;Uses Selenium Webdriver alongside HTML and networking knowledge<br />
+  <br /><b>[Password Manager](https://github.com/ManavToor/PasswordManager)</b><br />
+  &nbsp;&nbsp;Fun project I did, was somewhat secure<br />
+  <br /><b>[Discord Bot 1](https://github.com/ManavToor/ShulkerBot)</b><br />
+  &nbsp;&nbsp;Was actively used in an old server with a 100 members<br />
+  <br /><b>[Discord Bot 2](https://github.com/ManavToor/CoffeenCodeBot)</b><br />
+  &nbsp;&nbsp;Was used by my local library for several months during covid<br />
 
 <h3>PCB Boards</h3>
 
@@ -33,8 +37,11 @@
   These are old Arduino projects I made on TinkerCAD, I'm way better at circuitry and C++ now<br />
   
   <b>[Traffic Junction Simulator](https://github.com/ManavToor/TrafficJunction)</b><br />
-  <b>[Name In Lights](https://github.com/ManavToor/NameInLights)</b><br />
-  <b>[Simple Robot Arm](https://github.com/ManavToor/EEZYbotARM)</b><br />
+  &nbsp;&nbsp; Gr 11 project: first time using classes in C++<br />
+  <br /><b>[Name In Lights](https://github.com/ManavToor/NameInLights)</b><br />
+  &nbsp;&nbsp; Gr 11 project: first time using multiplexing alongside transistorst and 8-bit shift registers<br />
+  <br /><b>[Simple Robot Arm](https://github.com/ManavToor/EEZYbotARM)</b><br />
+  &nbsp;&nbsp; Gr 12 project: uses potentiometers to control servo motors<br />
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
