@@ -36,10 +36,10 @@
 <h3>Arduino and C++</h3>
   These are old Arduino projects I made on TinkerCAD, I'm way better at circuitry and C++ now<br />
   
-  <b>[Traffic Junction Simulator](https://github.com/ManavToor/TrafficJunction)</b><br />
+  <br /><b>[Traffic Junction Simulator](https://github.com/ManavToor/TrafficJunction)</b><br />
   &nbsp;&nbsp; Gr 11 project: first time using classes in C++<br />
   <br /><b>[Name In Lights](https://github.com/ManavToor/NameInLights)</b><br />
-  &nbsp;&nbsp; Gr 11 project: first time using multiplexing alongside transistorst and 8-bit shift registers<br />
+  &nbsp;&nbsp; Gr 11 project: first time using multiplexing alongside transistors and 8-bit shift registers<br />
   <br /><b>[Simple Robot Arm](https://github.com/ManavToor/EEZYbotARM)</b><br />
   &nbsp;&nbsp; Gr 12 project: uses potentiometers to control servo motors<br />
 
