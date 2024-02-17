@@ -8,7 +8,7 @@
   <b>[Maze Solver Using Various Searching Algorithms](https://github.com/ManavToor/MazeSolvers)</b><br />
   &nbsp;&nbsp;BFS, DFS, Greedy-BFS, A*<br />
   <br /><b>[Unbeatable Tic-Tac-Toe bot with Advesarial Minimax Algortithm](https://github.com/ManavToor/Minimax)</b><br /> 
-  &nbsp;&nbsp;<br />
+  &nbsp;&nbsp;You can tie it if you're good enough<br />
   <br /><b>[Automating Ansys Fluent CFD Simulations for Rocket Airbrake Testing](https://github.com/waterloo-rocketry/PyAnsys)</b><br />
   &nbsp;&nbsp;I used my friend Richards account to make commits but the project is 99.99% my own work<br />
   
