@@ -26,6 +26,11 @@
   <br /><b>[Discord Bot 2](https://github.com/ManavToor/CoffeenCodeBot)</b><br />
   &nbsp;&nbsp;Was used by my local library for several months during covid<br />
 
+<h3>Java</h3>
+
+  <br /><b>[Live Rocket Trajectory Prediction (Active PR)](https://github.com/waterloo-rocketry/or-airbrake-plugin/blob/trajectory-prediction/src/main/java/com/waterloorocketry/airbrakeplugin/controller/PIDController.java)</b><br />
+  &nbsp;&nbsp;For more PID controller accuracy, implemented a trajectory prediction function<br />
+
 <h3>PCB Boards</h3>
 
   <b>[Power Distribution Board (Active PR)](https://github.com/waterloo-rocketry/GSPD/tree/new-converter)</b><br />
