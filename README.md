@@ -28,7 +28,7 @@
 
 <h3>Java</h3>
 
-  <b>[Live Rocket Trajectory Prediction (Active PR)](https://github.com/waterloo-rocketry/or-airbrake-plugin/blob/trajectory-prediction/src/main/java/com/waterloorocketry/airbrakeplugin/controller/PIDController.java)</b><br />
+  <b>[Live Rocket Trajectory Prediction](https://github.com/waterloo-rocketry/or-airbrake-plugin/blob/main/src/main/java/com/waterloorocketry/airbrakeplugin/controller/TrajectoryPrediction.java)</b><br />
   &nbsp;&nbsp;For more PID controller accuracy, implemented a trajectory prediction function<br />
 
 <h3>PCB Boards</h3>
