@@ -7,13 +7,17 @@
 
   <br /><b>[Unbeatable Tic-Tac-Toe bot with Advesarial Minimax Algortithm](https://github.com/ManavToor/Minimax)</b><br /> 
   &nbsp;&nbsp;You can tie it if you're good enough<br />
+  
   <br /><b>[Automating Ansys Fluent CFD Simulations for Rocket Airbrake Testing](https://github.com/waterloo-rocketry/PyAnsys)</b><br />
-  &nbsp;&nbsp;I used my friend Richards account to make commits but the project is 99.99% my own work<br />
+  &nbsp;&nbsp;Can calculate a rocket's drag ceofficient and centre of pressure at different stages of flight<br />
+  
   <br /><b>[Generating C Code with Python (Active PR)](https://github.com/waterloo-rocketry/parsley)</b><br />
   &nbsp;&nbsp;Currently working on code cleanup, then will add feature to automatically create git branches and PR's<br />
-  <b>[Live Rocket Trajectory Prediction](https://github.com/waterloo-rocketry/or-airbrake-plugin/blob/main/src/main/java/com/waterloorocketry/airbrakeplugin/controller/TrajectoryPrediction.java)</b><br />
+  
+  <br /><b>[Live Rocket Trajectory Prediction](https://github.com/waterloo-rocketry/or-airbrake-plugin/blob/main/src/main/java/com/waterloorocketry/airbrakeplugin/controller/TrajectoryPrediction.java)</b><br />
   &nbsp;&nbsp;For more PID controller accuracy, implemented a trajectory prediction function<br />
-  <b>[Maze Solver Using Various Searching Algorithms](https://github.com/ManavToor/MazeSolvers)</b><br />
+  
+  <br /><b>[Maze Solver Using Various Searching Algorithms](https://github.com/ManavToor/MazeSolvers)</b><br />
   &nbsp;&nbsp;BFS, DFS, Greedy-BFS, A*<br />
   
   <br />Other repositories I've commited to:<br />
