@@ -3,18 +3,21 @@
 <h2>👨‍💻 Projects I've worked on:</h2>
 
 
-<h3>Python</h3>
+<h3>Code</h3>
 
-  <b>[Maze Solver Using Various Searching Algorithms](https://github.com/ManavToor/MazeSolvers)</b><br />
-  &nbsp;&nbsp;BFS, DFS, Greedy-BFS, A*<br />
   <br /><b>[Unbeatable Tic-Tac-Toe bot with Advesarial Minimax Algortithm](https://github.com/ManavToor/Minimax)</b><br /> 
   &nbsp;&nbsp;You can tie it if you're good enough<br />
   <br /><b>[Automating Ansys Fluent CFD Simulations for Rocket Airbrake Testing](https://github.com/waterloo-rocketry/PyAnsys)</b><br />
   &nbsp;&nbsp;I used my friend Richards account to make commits but the project is 99.99% my own work<br />
+  <br /><b>[Generating C Code with Python (Active PR)](https://github.com/waterloo-rocketry/parsley)</b><br />
+  &nbsp;&nbsp;Currently working on code cleanup, then will add feature to automatically create git branches and PR's<br />
+  <b>[Live Rocket Trajectory Prediction](https://github.com/waterloo-rocketry/or-airbrake-plugin/blob/main/src/main/java/com/waterloorocketry/airbrakeplugin/controller/TrajectoryPrediction.java)</b><br />
+  &nbsp;&nbsp;For more PID controller accuracy, implemented a trajectory prediction function<br />
+  <b>[Maze Solver Using Various Searching Algorithms](https://github.com/ManavToor/MazeSolvers)</b><br />
+  &nbsp;&nbsp;BFS, DFS, Greedy-BFS, A*<br />
   
   <br />Other repositories I've commited to:<br />
   <b>[waterloo-rocketry/omnibus (Active PR)](https://github.com/waterloo-rocketry/omnibus/tree/aaumais/185-data-post-processing-script-rewrite)</b><br />
-  <b>[waterloo-rocketry/parsley (Active PR)](https://github.com/waterloo-rocketry/parsley/tree/gen_canlib_cleanup)</b><br />
 
   <br />Older not so cool projects:<br />
   <b>[Microsoft Teams Web Scraper](https://github.com/ManavToor/ShiftstoIcal)</b><br />
@@ -26,10 +29,7 @@
   <br /><b>[Discord Bot 2](https://github.com/ManavToor/CoffeenCodeBot)</b><br />
   &nbsp;&nbsp;Was used by my local library for several months during covid<br />
 
-<h3>Java</h3>
-
-  <b>[Live Rocket Trajectory Prediction](https://github.com/waterloo-rocketry/or-airbrake-plugin/blob/main/src/main/java/com/waterloorocketry/airbrakeplugin/controller/TrajectoryPrediction.java)</b><br />
-  &nbsp;&nbsp;For more PID controller accuracy, implemented a trajectory prediction function<br />
+  
 
 <h3>PCB Boards</h3>
 
@@ -38,7 +38,7 @@
   <br /><b>[DAQ and CAN-bus support board (Active PR)](https://github.com/waterloo-rocketry/canhw/tree/usb_relay)</b><br />
   &nbsp;&nbsp; Created board layout<br />
   
-<h3>Arduino and C++</h3>
+<h3>Arduino</h3>
   These are old Arduino projects I made on TinkerCAD, I'm way better at circuitry and C++ now<br />
   
   <br /><b>[Traffic Junction Simulator](https://github.com/ManavToor/TrafficJunction)</b><br />
