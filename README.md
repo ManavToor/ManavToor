@@ -17,11 +17,8 @@
   <br /><b>[Live Rocket Trajectory Prediction](https://github.com/waterloo-rocketry/or-airbrake-plugin/blob/main/src/main/java/com/waterloorocketry/airbrakeplugin/controller/TrajectoryPrediction.java)</b><br />
   &nbsp;&nbsp;For more PID controller accuracy, implemented a trajectory prediction function<br />
   
-  <br /><b>[Maze Solver Using Various Searching Algorithms](https://github.com/ManavToor/MazeSolvers)</b><br />
+  <br /><b>[Maze Solvers](https://github.com/ManavToor/MazeSolvers)</b><br />
   &nbsp;&nbsp;BFS, DFS, Greedy-BFS, A*<br />
-  
-  <br />Other repositories I've commited to:<br />
-  <b>[waterloo-rocketry/omnibus (Active PR)](https://github.com/waterloo-rocketry/omnibus/tree/aaumais/185-data-post-processing-script-rewrite)</b><br />
 
   <br />Older not so cool projects:<br />
   <b>[Microsoft Teams Web Scraper](https://github.com/ManavToor/ShiftstoIcal)</b><br />
@@ -37,9 +34,9 @@
 
 <h3>PCB Boards</h3>
 
-  <b>[Power Distribution Board (Active PR)](https://github.com/waterloo-rocketry/GSPD/tree/new-converter)</b><br />
+  <b>[DC/DC Converter Board (Active PR)](https://github.com/waterloo-rocketry/GSPD/tree/new-converter)</b><br />
   &nbsp;&nbsp; Added new 24V boost converter to old board and completely redid layout<br />
-  <br /><b>[DAQ and CAN-bus support board (Active PR)](https://github.com/waterloo-rocketry/canhw/tree/usb_relay)</b><br />
+  <br /><b>[CAN-bus support board](https://github.com/waterloo-rocketry/canhw/tree/master/DAQ%20CAN%20support)</b><br />
   &nbsp;&nbsp; Created board layout<br />
   
 <h3>Arduino</h3>
