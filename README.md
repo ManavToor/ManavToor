@@ -2,19 +2,30 @@
 
 <h2>👨‍💻 Projects I've worked on:</h2>
 
+  <h3>Software</h3>
 
-  <br /><b>[Unbeatable Tic-Tac-Toe bot with Advesarial Minimax Algortithm](https://github.com/ManavToor/Minimax)</b><br /> 
-  &nbsp;&nbsp;You can tie it if you're good enough<br />
+  <br /><b>[Neural Network with only NumPy](https://github.com/ManavToor/NeuralNetwork/)</b><br /> 
+  &nbsp;&nbsp;Classifies handwritten digits<br />
+
+  <br /><b>[ML Model Monitoring with Evidently](https://github.com/ManavToor/ModelMonitoring)</b><br /> 
+  &nbsp;&nbsp;Monitors model metrics as well as genreates reports for data drift and target drift<br />
   
-  <br /><b>[Automating Ansys Fluent CFD Simulations for Rocket Airbrake Testing](https://github.com/waterloo-rocketry/PyAnsys)</b><br />
+  <br /><b>[Automating Ansys CFD](https://github.com/waterloo-rocketry/PyAnsys)</b><br />
   &nbsp;&nbsp;Can calculate a rocket's drag ceofficient and centre of pressure at different stages of flight<br />
   
-  <br /><b>[Live Rocket Trajectory Prediction](https://github.com/waterloo-rocketry/or-airbrake-plugin/blob/main/src/main/java/com/waterloorocketry/airbrakeplugin/controller/TrajectoryPrediction.java)</b><br />
-  &nbsp;&nbsp;For more PID controller accuracy, implemented a trajectory prediction function<br />
-  
-  <br /><b>[Maze Solvers](https://github.com/ManavToor/MazeSolvers)</b><br />
-  &nbsp;&nbsp;Capable of using different algorithms: BFS, DFS, Greedy-BFS, A*<br />
-  
+  <br /><b>[Tic-Tac-Toe Bot](https://github.com/ManavToor/Minimax)</b><br /> 
+  &nbsp;&nbsp;Uses minmax and recursion, can only be tied<br />
+
+  <h3>PCB</h3>
+
+  <br /><b>[DC/DC Converter](https://github.com/waterloo-rocketry/infrastructure/tree/master/ground-side-power/Converters)</b><br /> 
+  &nbsp;&nbsp;12V in; 24V and 5V out<br />
+
+  <br /><b>[Remote Parachute Arming](https://github.com/waterloo-rocketry/canhw/tree/master/remote_arming)</b><br /> 
+  &nbsp;&nbsp;Allows for parachute pyrotechnics to be safely armed from a distance via CAN<br />
+
+  <br /><b>[RF Telemtry](https://github.com/waterloo-rocketry/canhw/pull/97)</b><br /> 
+  &nbsp;&nbsp;Custom RF board for live in-flight telemtry<br />
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
